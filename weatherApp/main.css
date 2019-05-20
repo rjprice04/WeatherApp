@@ -1,0 +1,31 @@
+body {
+    background-color: #303030;
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    line-height: 100px;
+    height: 200px;
+    text-align: center;
+    font-size: 60px;
+    width: 100%;
+    color: #a6a6a6;
+}
+
+h1#location {
+    line-height: 200px;
+    text-align: center;
+    font-size: 60px;
+}
+
+h1#temp {
+    font-size: 60px;
+    color: #a6a6a6;
+}
+
+div#description {
+    font-size: 60px;
+    color: #a6a6a6;
+}
+
+div#minMax {
+    font-size: 30px;
+}
